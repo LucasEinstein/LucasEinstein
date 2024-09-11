@@ -3,13 +3,13 @@
 <img src="https://creeperlulu.github.io/res/chill.png" align="right" width="30%">
 
 ### About me
-I'm **Lucas** (also called Einstein, Creeperlulu or Epson - it's my fursona's name).
+I'm **Lucas** (also called Einstein, Creeperlulu or Epson - it's my fursona's name).  
 I'm **18 years old**, french **furry** (protogen) and **student at Epitech**.  
 I enjoy **coding, videogames and drawing from time to time**.  
 I like **computers** and IT in general.  
-I'm also part of the **Scpija** team and the **Oasis** Group.
+I'm also part of the **Scpija** team and the **Oasis** Group.  
 
-I mainly use **Windows** for personal projects but I use Linux at school (no specific distro, I change it every time).
+I mainly use **Windows** for personal projects but I use Linux at school (no specific distro, I change it every time).  
 For now I'm a **Visual Studio Code** user.
 
 ### 💻 My current projects
